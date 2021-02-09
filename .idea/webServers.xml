@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3ed11631-cc46-4328-b6a8-e7d97599c863" name="mamdevsite.com" url="https://mamdevsite.com/pango-expedia/">
+        <fileTransfer rootFolder="/public_html/pango-expedia" host="mamdevsite.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
